@@ -25,7 +25,7 @@ addEventListener('resize', resize); resize();
 
 // ===== Game Constants =====
 const GRID = 30;
-const PRAISES = ["شاطر يا سطا!","طرششش!"];
+const PRAISES = ["شاطر يسطا!","طرش!"];
 const BANK = [
   {ar:"قطة", en:"cat"}, {ar:"كلب", en:"dog"}, {ar:"تفاح", en:"apple"},
   {ar:"ماء", en:"water"}, {ar:"خبز", en:"bread"}, {ar:"بيت", en:"house"},
